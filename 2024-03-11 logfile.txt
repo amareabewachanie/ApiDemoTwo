@@ -1,0 +1,7 @@
+ Info Test information log
+2024-03-11 16:06:43.8027 Info Test information log
+2024-03-11 16:06:43.8280 Error Here is an error message from births controller
+2024-03-11 16:38:09.7638 Info Test information log
+2024-03-11 16:38:09.7936 Error Here is an error message from births controller
+2024-03-11 17:11:55.4512 Info Test information log
+2024-03-11 17:11:55.4876 Error Here is an error message from births controller
